@@ -16,6 +16,9 @@
 - <a href="https://muneshkumar578.medium.com/reissue-json-web-token-jwt-with-sliding-expiration-using-asp-net-core-c-432119ceb657">Reissue JSON Web Token (JWT) with Sliding Expiration using ASP.NET Core (C#)</a>
 - <a href="https://muneshkumar578.medium.com/ef-core-and-sql-server-full-text-index-in-migrations-8071364f6be9">EF Core and SQL Server Full-Text Index in Migrations</a>
 
+---
+
+![Munesh Kumar's github stats](https://github-readme-stats.vercel.app/api?username=muneshkumar578&hide=stars&count_private=true&show_icons=true)
 
 <br/>
 
