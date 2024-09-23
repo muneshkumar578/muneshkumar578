@@ -1,6 +1,6 @@
 ## Hi there, I'm Munesh Kumar 👋
 
-#### I'm a Fullstack Software Engineer with a focus on backend skilled in .NET Core, AWS, JavaScript, Vue.js and React.js
+#### I'm a Fullstack Software Engineer with a focus on backend skilled in .NET, Python, JavaScript, AWS, and LLM
 
 - 🌱 Trying to learn from almost everything
 - 💻️ Skilled programmer having sound communication and Teamwork skills
